@@ -7,4 +7,11 @@ public class GitTest {
 		
 	}
 
+	public int test intx, inty, string message){
+		System.out.println(massage)
+			in z = x+y;
+		         return z; 
+	
+	
+	
 }
