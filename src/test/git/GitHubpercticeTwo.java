@@ -6,4 +6,8 @@ public class GitHubpercticeTwo {
 		  return  a *b; 
 
 }
+	pablic int test(int x, int y, String message){
+		System.out.println(messaage);
+		int z = x*y;
+		return z;
 }
